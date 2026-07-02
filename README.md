@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+The AI Interview Simulator is a web-based application that helps users prepare for job interviews through realistic AI-generated interview sessions. Users can answer questions using voice or text, and the system evaluates their responses based on content relevance, clarity, and confidence. It provides instant scores, personalized feedback, and performance insights to help candidates improve their communication and interview skills.
+The AI Resume Analyzer is an ATS-based resume evaluation module that analyzes PDF resumes using AI. It extracts resume content, identifies matched and missing keywords, generates an ATS compatibility score, and provides actionable suggestions for improvement. The module helps users optimize their resumes to better align with industry and recruiter expectations.
